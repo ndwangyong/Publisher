@@ -1,5 +1,5 @@
-module CPublisher{
-header "/home/CPublisher.h"
-link "CPublisher"
+module CTest{
+header "/home/ros/AppleCpp/test.h"
+link "test"
 export *
 }
