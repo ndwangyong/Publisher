@@ -1,0 +1,5 @@
+module CPublisher{
+header "/home/CPublisher.h"
+link "CPublisher"
+export *
+}
